@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3000,
+  "mongodb": "mongodb://localhost:27017/wepesa",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "C+dnVMdbNhGIs5LvnLuRAEC8Vt8/wB1tPpmb1orZ7T3HXo2KDXmlQvkBarXid9EL4QMJtsQAARUnS5uAZ7jHDw=="
+    },
+    "local": {}
+  }
+}
